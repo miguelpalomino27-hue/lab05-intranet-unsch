@@ -84,27 +84,27 @@ Tests:       10 passed, 10 total
 
 ## Evidencias
 
-![TC-MAT-001](imagenes/image-11.png)
+![TC-MAT-001](src/imagenes/image-11.png)
 
-![TC-MAT-002](imagenes/image-1.png)
+![TC-MAT-002](src/imagenes/image-1.png)
 
-![TC-MAT-002 FAIL](imagenes/image-2.png)
+![TC-MAT-002 FAIL](src/imagenes/image-2.png)
 
-![TC-MAT-011](imagenes/image-3.png)
+![TC-MAT-011](src/imagenes/image-3.png)
 
-![TC-NOT-003](imagenes/image-4.png)
+![TC-NOT-003](src/imagenes/image-4.png)
 
-![TC-NOT-004](imagenes/image-5.png)
+![TC-NOT-004](src/imagenes/image-5.png)
 
-![TC-PAG-005](imagenes/image-6.png)
+![TC-PAG-005](src/imagenes/image-6.png)
 
-![TC-PAG-006](imagenes/image-7.png)
+![TC-PAG-006](src/imagenes/image-7.png)
 
-![TC-PAG-012](imagenes/image-8.png)
+![TC-PAG-012](src/imagenes/image-8.png)
 
-![TC-HIS-007](imagenes/image-9.png)
+![TC-HIS-007](src/imagenes/image-9.png)
 
-![TC-HIS-008](imagenes/image-10.png)
+![TC-HIS-008](src/imagenes/image-10.png)
 
 ## Autor
 
